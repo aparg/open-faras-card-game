@@ -1,3 +1,3 @@
 # furash
-This is the taas project!
-It's a program developed by js professional. Simpletons cannot understand this!
+This is the taas project.
+Open the tas.html page and enjoy the  game!
